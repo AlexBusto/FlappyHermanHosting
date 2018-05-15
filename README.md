@@ -1,2 +1,0 @@
-# FlappyHermanHosting
-flappyherman online
