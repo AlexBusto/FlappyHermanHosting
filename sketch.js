@@ -14,7 +14,7 @@ var q = 0;
 
 function preload(){
   noahBird = loadImage("noahhh.png");
-  thiskid = loadImage("thiskid.png");
+  thiskid = loadImage("thiskid.jpg");
   pillarimg = loadImage("pillar.png");
 }
 
